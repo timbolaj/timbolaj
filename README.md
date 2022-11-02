@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Full stack web developer with expertise in Angular, Ruby on Rails and React<br>✈️ Part-time digital nomad<br>🌱 Currently learning how to use Docker
+🖥️ Full stack web developer with expertise in Angular, Ruby on Rails and React<br>✈️ Part-time digital nomad<br>🌱 Currently learning how to use Docker and brushing up on NodeJS
 
 
 ## 🌐 Socials:
